@@ -2,6 +2,7 @@
 
 ## Version 1.0
 A simple balancing bipedal model was designed and trained. The PPO2 policy of [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/) was used to train the model. Quaternion of the body together with feet-touch-to-ground information were used for input layer of fully connected ANN with single hidden layer consisted of 90 neurons.
+
 Click the image to see the balancing in Youtube.
 
 [![Kaptar 1.0](http://img.youtube.com/vi/YdcDqeV2Ho0/mqdefault.jpg)](https://www.youtube.com/watch?v=YdcDqeV2Ho0)
