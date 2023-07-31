@@ -12,7 +12,7 @@ For version 2.0 a PCB together with mechanical parts was designed:
 
 <img src="https://github.com/davhak/Robot-project-Kaptar/blob/main/img/pcb.jpg?raw=true" alt="PCB" width="400" height="400">
 
-Preparation of C++ basic code like the following:
+Design and implementation of C++ basic software:
 
 ![Code](https://github.com/davhak/Robot-project-Kaptar/blob/main/img/code.jpg?raw=true)
 
@@ -20,4 +20,5 @@ Preparation of C++ basic code like the following:
 
 ![Code](https://github.com/davhak/Robot-project-Kaptar/blob/main/img/assembled.gif?raw=true)
 
-More to come soon...
+# What's now?
+Training, motion retargeting, depth estimation, and a lot more...
