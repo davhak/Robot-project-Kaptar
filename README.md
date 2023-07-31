@@ -11,9 +11,11 @@ For version 2.0 a PCB together with mechanical parts was designed:
 <img src="https://github.com/davhak/Robot-project-Kaptar/blob/main/img/pcb.jpg?raw=true" alt="PCB" width="400" height="400">
 
 Preparation of C++ basic code like the following:
+
 ![Code](https://github.com/davhak/Robot-project-Kaptar/blob/main/img/code.jpg?raw=true)
 
 "Hello World" after assembly:
+
 ![Code](https://github.com/davhak/Robot-project-Kaptar/blob/main/img/assembled.gif?raw=true)
 
 More to come soon...
