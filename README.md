@@ -20,5 +20,4 @@ Design and implementation of C++ basic software:
 
 ![Code](https://github.com/davhak/Robot-project-Kaptar/blob/main/img/assembled.gif?raw=true)
 
-### What's now?
-Training, motion retargeting, depth estimation, and a lot more...
+### More to come...
